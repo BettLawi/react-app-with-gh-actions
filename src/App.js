@@ -23,7 +23,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Simple To-Do App</h1>
+      <h1>Simple To-Do</h1>
       <div>
         <input
           type="text"
