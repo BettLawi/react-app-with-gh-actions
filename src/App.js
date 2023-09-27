@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           <h1>TESTING GITHUB PAGES WITH REACT AND GITHUB ACTIONS</h1>
-          <h2>New Test</h2>
+          <h2>This is a second test</h2>
         </p>
         <a
           className="App-link"
